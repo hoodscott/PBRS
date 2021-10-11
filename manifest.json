@@ -1,6 +1,6 @@
 {
   "name": "Playbackrate Shortcut",
-  "description": "Adds keyboard shortcuts for video playback rate Ctrl+Shift+Comma/Period increases/decreases playback rates in steps of 0.5.  Ctrl+Shift+K resets it to default.",
+  "description": "Adds keyboard shortcuts for video playback rate: Ctrl+Shift+Comma/Period increases/decreases playback rates in steps of 0.5, Ctrl+Shift+K resets it to default.",
   "version": "1.0",
   "manifest_version": 3,
   
