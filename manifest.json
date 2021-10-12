@@ -30,7 +30,7 @@
     },
     "run-pbrs-decrement": {
       "suggested_key": {
-        "chromeos": "Ctrl+Shift+Comma",
+        "default": "Ctrl+Shift+Comma",
         "mac": "Command+Shift+Comma"
       },
       "description": "Decreases video playback rate by 0.5."
